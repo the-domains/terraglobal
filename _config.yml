@@ -1,0 +1,28 @@
+name: TerraGlobal
+favicon: null
+layout_spectrum: 0.5165687776170671
+typography_spectrum: 0.521668653935194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8067864263430238
+  lightness: 0.3500304145272821
+  saturation: 0.10711733368225396
+  rhythmicContrast: 0.41039296076633036
+purpose: []
